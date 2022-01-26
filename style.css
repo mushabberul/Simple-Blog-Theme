@@ -1,0 +1,19 @@
+/*
+Theme Name: Simple Blog
+Theme URI: https://simpleblog.com/
+Author: Sabbir Mia
+Author URI: https://sabbirmia.com/
+Description: I am learning WordPress theme development. I will success very soon, Inshallah
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: simple
+*/
+.header__logo h2{
+	margin: 0;
+}
+.header__logo h2 a{
+	color: #000;
+	font-weight: 700;
+}
